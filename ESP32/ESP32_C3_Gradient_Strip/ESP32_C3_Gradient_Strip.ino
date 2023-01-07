@@ -2,6 +2,8 @@
 #include <WiFiUdp.h>
 #include <WebServer.h>
 #include <LittleFS.h>
+#include <LITTLEFS.h>
+#include <FS.h>
 #include <HTTPUpdateServer.h>
 #include <WiFiManager.h>
 #include <ArduinoJson.h>
